@@ -21,7 +21,7 @@ A modern, responsive Pokemon Pokedex web application built with Nuxt 3, TypeScri
 1. **Clone or download this repository**
 
 ```bash
-cd pokemon-nuxt-demo
+cd pokemondex
 ```
 
 2. **Install dependencies**
