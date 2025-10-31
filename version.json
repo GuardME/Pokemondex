@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Pokemon Pokedex",
+  "description": "Nuxt 3 Pokemon Pokedex Demo",
+  "releaseDate": "2024-10-31",
+  "features": [
+    "151 Pokemon from Kanto region",
+    "Smart pagination system",
+    "Detailed Pokemon information",
+    "Responsive design",
+    "CI/CD pipeline"
+  ]
+}
+
